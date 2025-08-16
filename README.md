@@ -43,7 +43,7 @@ Mempelajari HTML dasar dari nol hingga mampu membuat website pribadi dengan berb
 ## 🚀 Cara Menjalankan
 1. Clone repository ini
 ```bash
-git clone https://github.com/[username]/tugas-html-petanikode.git
+git clone https://github.com/[galangam]/tugas-html-petanikode.git
 ```
 
 2. Buka file `index.html` di browser atau gunakan Live Server di VS Code
@@ -54,7 +54,7 @@ git clone https://github.com/[username]/tugas-html-petanikode.git
 - Menggunakan gambar dan asset pendukung dari folder masing-masing
 
 ## 👨‍💻 Author
-**[Galang Agung Munggaran]**  
+**[galangam]**  
 Siswa yang sedang belajar HTML dari tutorial Petanikode
 
 ---
